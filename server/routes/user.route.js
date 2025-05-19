@@ -15,6 +15,4 @@ userRouter.put('/forget-password' , forgetPasswordController);
 userRouter.put('/forgot-password-otp' , verifyForgetPasswordOTP);
 userRouter.put('/reset-password' , resetPassword);
 userRouter.post('/refersh-token' , refreshTokenController);
-
-"Heelo"
 export default userRouter;

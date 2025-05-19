@@ -6,7 +6,7 @@ import generateAccessToken from '../utils/generateAccessToken.js'
 import generateRefreshToken from '../utils/generateRefreshToken.js'
 import uploadImageCloudinary from '../utils/uploadImageCloudinary.js'
 import forgetPasswordTemplate from '../utils/forgetPasswordTemplate.js'
-import generateOTP from '../utils/generateOTP.js';
+import generateOTP from '../utils/generateOTP.js'
 import jwt from 'jsonwebtoken'
 
 // Register
